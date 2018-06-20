@@ -1,4 +1,4 @@
-# LearnBitcoin
+# Bitcoin Knowledge base for learning
 Bitcoin resources
 
 TKJ PODCAST #89 | Dr Craig Wright - The Future & Economics of Bitcoin  
