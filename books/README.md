@@ -3,6 +3,9 @@
 Mastering Bitcoin - Andreas M. Antonopoulos  
 https://github.com/bitcoinbook/bitcoinbook
 
+Grokking Bitcoin  
+https://www.manning.com/books/grokking-bitcoin  
+
 
 Programming Blockchain in C#  
 https://programmingblockchain.gitbooks.io/programmingblockchain/content/

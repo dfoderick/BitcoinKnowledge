@@ -6,10 +6,9 @@ https://github.com/bitcoin/bitcoin/blob/0.16/src/script/script.h
 BCH  
 https://github.com/Bitcoin-ABC/bitcoin-abc/blob/master/src/script/script.h
 
+<https://en.bitcoin.it/wiki/Script>
 
 ## Script execution sites
-
-<https://en.bitcoin.it/wiki/Script>
 
 <https://matiu.github.io/opcodes-playground/>
 
